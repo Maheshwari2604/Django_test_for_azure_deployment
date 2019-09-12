@@ -5,4 +5,4 @@ from django.shortcuts import render , HttpResponse
 
 # Create your views here.
 def azure_test(request):
-    return HttpResponse("hey")
+    return HttpResponse("heqqy")
